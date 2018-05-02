@@ -1,0 +1,14 @@
+{
+  "name": "kudos-stories",
+  "version": "1.0.0",
+  "description": "Get latest stories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sheenan Tenepre",
+  "license": "ISC",
+  "dependencies": {
+    "@feathersjs/feathers": "^3.1.4"
+  }
+}
